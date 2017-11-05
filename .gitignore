@@ -1,0 +1,15 @@
+bower_components/
+gulp/
+node_modules/
+source/
+bower.json
+gulpfile.coffee
+gulpfile.js
+package.json
+README.md
+source/assets/js/config.js
+
+build/assets/css
+build/assets/img
+build/assets/js/bundle.js
+build/assets/js/libs
