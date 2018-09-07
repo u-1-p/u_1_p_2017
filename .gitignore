@@ -6,7 +6,7 @@ bower.json
 gulpfile.coffee
 gulpfile.js
 package.json
-
+README.md
 source/assets/js/config.js
 
 build/assets/css
